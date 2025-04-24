@@ -16,6 +16,9 @@ A modern, beautifully responsive hotel booking platform built using **React**, *
 - 🌍 **Map Integration (React Leaflet)**  
   Visualize hotel listings on a dynamic map using your IP-based location.
 
+- 💡 **Modal Support**  
+  Clean, interactive modal components for viewing hotel details, images, and user interactions.
+
 - 🔁 **Infinite Scrolling**  
   Seamlessly load more hotels without page refresh.
 
